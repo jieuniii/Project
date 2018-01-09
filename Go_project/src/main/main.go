@@ -23,7 +23,7 @@ func temp() {
 }
 
 func db() {
-	 db, err := sql.Open("mysql", "hduser:tkdydwk00@tcp(1.234.25.136:3306)/mecab")
+	 db, err := sql.Open("mysql", "")
        if err != nil {
                log.Fatal(err)
        }
