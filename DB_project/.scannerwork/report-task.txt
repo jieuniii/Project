@@ -1,0 +1,6 @@
+projectKey=DB_Project
+serverUrl=http://localhost:9003
+serverVersion=6.7.0.33306
+dashboardUrl=http://localhost:9003/dashboard/index/DB_Project
+ceTaskId=AWC_f8GXHvptzCnlGPI8
+ceTaskUrl=http://localhost:9003/api/ce/task?id=AWC_f8GXHvptzCnlGPI8
